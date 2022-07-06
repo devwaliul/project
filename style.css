@@ -1,0 +1,47 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+    .margin-top{
+        margin-top: 170px; 
+    }
+ .margin-left{
+    margin-left: 350px;
+ }
+ .margin-top-no{
+    margin:0;}
+    .margin-bottom-no{margin-bottom:0}
+        
+   
+    body {
+      background-image:url(image/donation6.jpg);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+    }
+
+    .align{
+        text-align: center;
+    }
+    
+    .font-color{
+        color: azure;
+    }
+    .font-size{
+        font-size:60px;
+    }
+    
+.button{
+    text-decoration: none;
+    color: azure;
+    background-image: linear-gradient(Purple, Fuchsia);
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    height: min-content;
+    margin-left: 590px;
+    margin-right: 590px;
+    
+
+}
+
+    
