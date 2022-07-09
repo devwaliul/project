@@ -1,47 +1,42 @@
 body{
     font-family: 'Lato', sans-serif;
+    margin: 0;
 }
-    .margin-top{
-        margin-top: 170px; 
+
+    
+    .hero-image{
+        background-image:url(image/donation1.jpg);
+        height: 800px;
+        background-repeat: no-repeat;
+        background-size: cover; 
+        background-position:center;
+        position: relative;
     }
- .margin-left{
-    margin-left: 350px;
- }
- .margin-top-no{
-    margin:0;}
-    .margin-bottom-no{margin-bottom:0}
-        
-   
-    body {
-      background-image:url(image/donation6.jpg);
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-      background-size: cover;
+      
+    .hero-text {
+        text-align: center;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white;
     }
 
-    .align{
-        text-align: center;
-    }
     
-    .font-color{
-        color: azure;
-    }
-    .font-size{
-        font-size:60px;
-    }
     
 .button{
     text-decoration: none;
     color: azure;
     background-image: linear-gradient(Purple, Fuchsia);
-    padding: 10px 40px;
+    padding: 10px;
     border-radius: 5px;
     background-repeat: no-repeat;
-    height: min-content;
-    margin-left: 590px;
-    margin-right: 590px;
+    margin-left: 270px;
+    margin-right: 270px;
+    font-weight: 700;
+    
     
 
 }
 
-    
+   section{display:inline;} 
